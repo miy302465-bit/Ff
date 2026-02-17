@@ -2,7 +2,7 @@ module.exports.config = {
  name: "info",
  version: "1.0.0",
  hasPermssion: 0,
- credits: "SHAHADAT SAHU",
+ credits: " মালয়েশিয়া সিঙ্গাম বয়",
  description: "Bot information command",
  commandCategory: "For users",
  hide: true,
@@ -44,13 +44,13 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
 
 ╭⭓ ⪩ 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 ⪨
 │
-├─ 👑 𝗡𝗮𝗺𝗲 : 𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐈𝐬𝐥𝐚𝐦
-├─ 📲 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 :
-│ facebook.com/61575698041722
+├─ 👑 𝗡𝗮𝗺𝗲 : মালয়েশিয়া সিঙ্গাম বয়
+├─ 📲 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 :100091413057011
+│ 
 ├─ 💌 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
-│ m.me/61575698041722
+│ m.me/100091413057011
 ├─ 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 :
-│ wa.me/+8801882333052
+│ wa.me/+61116710390
 │
 ╰───────⭓
 
@@ -62,7 +62,7 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
 ╰───────⭓
 
 ❤️ 𝗧𝗵𝗮𝗻𝗸𝘀 𝗳𝗼𝗿 𝘂𝘀𝗶𝗻𝗴 🌺
- 😍─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭😘`;
+ 😍─꯭─⃝‌‌মালয়েশিয়া সিঙ্গাম বয়😘`;
 
  const imgLinks = [
  "https://i.imgur.com/zqsuJnX.jpeg",
